@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="question_array_english">
+        <item> Student</item>
+        <item> Staff </item>
+        <item> Faculty </item>
+        <item> None </item>
+    </string-array>
+    <string-array name="question_array_spanish">
+        <item> Etudiente</item>
+        <item> Staffe </item>
+        <item> Faculte </item>
+        <item> Rien </item>
+    </string-array>
+
+
+    <string name="lang_pref_english">Language preference? </string>
+    <string name="lang_pref_spanish">Preferencia de idioma</string>
+    <string name="question_english">Member of Sac City?</string>
+    <string name="question_spanish">Member de Sac City?</string>
+    <string name="state_prompt_english">Enter your state: </string>
+    <string name="state_prompt_spanish">Ingresa tu estado: </string>
+    <string name="city_prompt_english">Enter your city: </string>
+    <string name="city_prompt_spanish">Ingresa tu ciudad: </string>
+</resources>
